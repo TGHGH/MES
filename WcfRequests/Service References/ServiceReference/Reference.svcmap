@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d71fcc5f-5995-46e0-8983-b1881fcd71f8" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="net.tcp://127.0.0.1:4502/GeneralWcfService/GeneralService.svc/MEX" Protocol="mex" SourceId="1" />
+    <MetadataSource Address="net.tcp://127.0.0.1:4502/WIPWcfService/WipService.svc/MEX" Protocol="mex" SourceId="2" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="GeneralWcfService.wsdl" MetadataType="Wsdl" ID="8b29e865-b790-42e1-8baf-9e9f273c3f29" SourceId="1" SourceUrl="net.tcp://127.0.0.1:4502/GeneralWcfService/GeneralService.svc/MEX" />
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="60142ce2-c39b-4b24-9b7c-6cce8712c257" SourceId="1" SourceUrl="net.tcp://127.0.0.1:4502/GeneralWcfService/GeneralService.svc/MEX" />
+    <MetadataFile FileName="GeneralWcfService.xsd" MetadataType="Schema" ID="b269b62d-e605-4283-899a-129c124228cd" SourceId="1" SourceUrl="net.tcp://127.0.0.1:4502/GeneralWcfService/GeneralService.svc/MEX" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="f5ba25c8-de8e-4224-8d23-ab0ab71b4a68" SourceId="1" SourceUrl="net.tcp://127.0.0.1:4502/GeneralWcfService/GeneralService.svc/MEX" />
+    <MetadataFile FileName="DataContractAssembly.xsd" MetadataType="Schema" ID="89f0bd99-4553-4c48-904b-613766cf3a46" SourceId="1" SourceUrl="net.tcp://127.0.0.1:4502/GeneralWcfService/GeneralService.svc/MEX" />
+    <MetadataFile FileName="Arrays.xsd" MetadataType="Schema" ID="95060693-47c6-4748-b9f2-36b3314bc2c7" SourceId="1" SourceUrl="net.tcp://127.0.0.1:4502/GeneralWcfService/GeneralService.svc/MEX" />
+    <MetadataFile FileName="service1.wsdl" MetadataType="Wsdl" ID="b1a4f5af-83d1-4820-9a2b-7e4c2b63b219" SourceId="2" SourceUrl="net.tcp://127.0.0.1:4502/WIPWcfService/WipService.svc/MEX" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="c8dcf11c-9408-422b-a39a-b989c39396db" SourceId="2" SourceUrl="net.tcp://127.0.0.1:4502/WIPWcfService/WipService.svc/MEX" />
+    <MetadataFile FileName="service11.xsd" MetadataType="Schema" ID="562f0d6e-5b54-46ba-8aaa-2f5d613328b1" SourceId="2" SourceUrl="net.tcp://127.0.0.1:4502/WIPWcfService/WipService.svc/MEX" />
+    <MetadataFile FileName="DataContractAssembly1.xsd" MetadataType="Schema" ID="dd5cc90b-3b7d-4641-944c-202bce53adaa" SourceId="2" SourceUrl="net.tcp://127.0.0.1:4502/WIPWcfService/WipService.svc/MEX" />
+    <MetadataFile FileName="Arrays1.xsd" MetadataType="Schema" ID="61dd3e59-497d-487d-8b3d-52cde387345a" SourceId="2" SourceUrl="net.tcp://127.0.0.1:4502/WIPWcfService/WipService.svc/MEX" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

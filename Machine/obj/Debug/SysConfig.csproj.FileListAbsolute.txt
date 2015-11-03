@@ -1,0 +1,9 @@
+D:\SoftWare_Genhong.hu\MESMySelf\MES\bin\Debug\SysConfig.dll
+D:\SoftWare_Genhong.hu\MESMySelf\MES\bin\Debug\SysConfig.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\Machine\obj\Debug\SysConfig.AddUser.resources
+D:\SoftWare_Genhong.hu\MESMySelf\Machine\obj\Debug\SysConfig.MachineMaintain.resources
+D:\SoftWare_Genhong.hu\MESMySelf\Machine\obj\Debug\SysConfig.PackConfig.resources
+D:\SoftWare_Genhong.hu\MESMySelf\Machine\obj\Debug\SysConfig.csproj.GenerateResource.Cache
+D:\SoftWare_Genhong.hu\MESMySelf\Machine\obj\Debug\SysConfig.dll
+D:\SoftWare_Genhong.hu\MESMySelf\Machine\obj\Debug\SysConfig.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\Machine\obj\Debug\SysConfig.csprojResolveAssemblyReference.cache

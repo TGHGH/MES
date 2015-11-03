@@ -1,0 +1,8 @@
+D:\SoftWare_Genhong.hu\MESMySelf\WcfRequests\bin\Debug\WcfRequests.dll.config
+D:\SoftWare_Genhong.hu\MESMySelf\WcfRequests\bin\Debug\WcfRequests.dll
+D:\SoftWare_Genhong.hu\MESMySelf\WcfRequests\bin\Debug\WcfRequests.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\WcfRequests\bin\Debug\BasicClassLib.dll
+D:\SoftWare_Genhong.hu\MESMySelf\WcfRequests\bin\Debug\BasicClassLib.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\WcfRequests\obj\Debug\WcfRequests.csprojResolveAssemblyReference.cache
+D:\SoftWare_Genhong.hu\MESMySelf\WcfRequests\obj\Debug\WcfRequests.dll
+D:\SoftWare_Genhong.hu\MESMySelf\WcfRequests\obj\Debug\WcfRequests.pdb

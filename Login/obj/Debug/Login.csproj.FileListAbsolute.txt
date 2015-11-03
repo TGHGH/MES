@@ -1,0 +1,11 @@
+D:\SoftWare_Genhong.hu\MESMySelf\Login\bin\Debug\Login.dll
+D:\SoftWare_Genhong.hu\MESMySelf\Login\bin\Debug\Login.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\Login\bin\Debug\BasicClassLib.dll
+D:\SoftWare_Genhong.hu\MESMySelf\Login\bin\Debug\WcfRequests.dll
+D:\SoftWare_Genhong.hu\MESMySelf\Login\bin\Debug\BasicClassLib.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\Login\bin\Debug\WcfRequests.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+D:\SoftWare_Genhong.hu\MESMySelf\Login\obj\Debug\Login.frmLogin.resources
+D:\SoftWare_Genhong.hu\MESMySelf\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+D:\SoftWare_Genhong.hu\MESMySelf\Login\obj\Debug\Login.dll
+D:\SoftWare_Genhong.hu\MESMySelf\Login\obj\Debug\Login.pdb

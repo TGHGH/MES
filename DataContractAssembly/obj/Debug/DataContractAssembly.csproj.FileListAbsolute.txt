@@ -1,0 +1,5 @@
+D:\SoftWare_Genhong.hu\MESMySelf\DataContractAssembly\bin\Debug\DataContractAssembly.dll
+D:\SoftWare_Genhong.hu\MESMySelf\DataContractAssembly\bin\Debug\DataContractAssembly.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\DataContractAssembly\obj\Debug\DataContractAssembly.dll
+D:\SoftWare_Genhong.hu\MESMySelf\DataContractAssembly\obj\Debug\DataContractAssembly.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\DataContractAssembly\obj\Debug\DataContractAssembly.csprojResolveAssemblyReference.cache

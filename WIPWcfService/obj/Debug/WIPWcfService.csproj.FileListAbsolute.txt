@@ -1,0 +1,7 @@
+D:\SoftWare_Genhong.hu\MESMySelf\WIPWcfService\bin\WIPWcfService.dll
+D:\SoftWare_Genhong.hu\MESMySelf\WIPWcfService\bin\WIPWcfService.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\WIPWcfService\bin\DataContractAssembly.dll
+D:\SoftWare_Genhong.hu\MESMySelf\WIPWcfService\bin\DataContractAssembly.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\WIPWcfService\obj\Debug\WIPWcfService.dll
+D:\SoftWare_Genhong.hu\MESMySelf\WIPWcfService\obj\Debug\WIPWcfService.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\WIPWcfService\obj\Debug\WIPWcfService.csprojResolveAssemblyReference.cache

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/DataContractAssembly" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/DataContractAssembly" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <xs:complexType name="FuncTagInfo">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ComputerName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ConditionId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DataId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DisplayPath" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DisplayType" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="EngDisplayName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ExcelTempLate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FuncName" nillable="true" type="xs:string" />
+      <xs:element xmlns:q1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="InputParams" nillable="true" type="q1:ArrayOfstring" />
+      <xs:element minOccurs="0" name="IsReport" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Language" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UUID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UserID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UserName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Workshop" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="FuncTagInfo" nillable="true" type="tns:FuncTagInfo" />
+  <xs:complexType name="CallBackData">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Result" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="RowDatas" nillable="true" type="tns:ArrayOfRowData" />
+      <xs:element minOccurs="0" name="UUID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="bIsOK" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CallBackData" nillable="true" type="tns:CallBackData" />
+  <xs:complexType name="ArrayOfRowData">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="RowData" nillable="true" type="tns:RowData" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfRowData" nillable="true" type="tns:ArrayOfRowData" />
+  <xs:complexType name="RowData">
+    <xs:sequence>
+      <xs:element xmlns:q2="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="rowData" nillable="true" type="q2:ArrayOfstring" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="RowData" nillable="true" type="tns:RowData" />
+</xs:schema>

@@ -1,0 +1,13 @@
+D:\SoftWare_Genhong.hu\MESMySelf\MES\bin\Debug\Producing.dll
+D:\SoftWare_Genhong.hu\MESMySelf\MES\bin\Debug\Producing.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\Packing\obj\Debug\Producing.CellBinding.resources
+D:\SoftWare_Genhong.hu\MESMySelf\Packing\obj\Debug\Producing.CellDistribute.resources
+D:\SoftWare_Genhong.hu\MESMySelf\Packing\obj\Debug\Producing.ModuleClean.resources
+D:\SoftWare_Genhong.hu\MESMySelf\Packing\obj\Debug\Producing.CreateCabinet.resources
+D:\SoftWare_Genhong.hu\MESMySelf\Packing\obj\Debug\Producing.Frame.resources
+D:\SoftWare_Genhong.hu\MESMySelf\Packing\obj\Debug\Producing.LayUp.resources
+D:\SoftWare_Genhong.hu\MESMySelf\Packing\obj\Debug\Producing.Pack.resources
+D:\SoftWare_Genhong.hu\MESMySelf\Packing\obj\Debug\Producing.csproj.GenerateResource.Cache
+D:\SoftWare_Genhong.hu\MESMySelf\Packing\obj\Debug\Producing.dll
+D:\SoftWare_Genhong.hu\MESMySelf\Packing\obj\Debug\Producing.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\Packing\obj\Debug\Producing.csprojResolveAssemblyReference.cache

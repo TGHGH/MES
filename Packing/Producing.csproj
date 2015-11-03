@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7C8B0739-A2DB-48C6-98A4-AB0BC7E2A01C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Producing</RootNamespace>
+    <AssemblyName>Producing</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\MES\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CellBinding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CellBinding.Designer.cs">
+      <DependentUpon>CellBinding.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CellDistribute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CellDistribute.Designer.cs">
+      <DependentUpon>CellDistribute.cs</DependentUpon>
+    </Compile>
+    <Compile Include="basicClass.cs" />
+    <Compile Include="ModuleClean.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuleClean.Designer.cs">
+      <DependentUpon>ModuleClean.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateCabinet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateCabinet.Designer.cs">
+      <DependentUpon>CreateCabinet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frame.Designer.cs">
+      <DependentUpon>Frame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LayUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LayUp.Designer.cs">
+      <DependentUpon>LayUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pack.Designer.cs">
+      <DependentUpon>Pack.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CellBinding.resx">
+      <DependentUpon>CellBinding.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CellDistribute.resx">
+      <DependentUpon>CellDistribute.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModuleClean.resx">
+      <DependentUpon>ModuleClean.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateCabinet.resx">
+      <DependentUpon>CreateCabinet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame.resx">
+      <DependentUpon>Frame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LayUp.resx">
+      <DependentUpon>LayUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pack.resx">
+      <DependentUpon>Pack.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BasicClassLib\Module.BasicClassLib.csproj">
+      <Project>{28CCF9CC-C623-4997-B6AB-ED961D9278BE}</Project>
+      <Name>Module.BasicClassLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WcfRequests\WcfRequests.csproj">
+      <Project>{C1C9380E-34D1-4B4D-BBAD-B378EE947871}</Project>
+      <Name>WcfRequests</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

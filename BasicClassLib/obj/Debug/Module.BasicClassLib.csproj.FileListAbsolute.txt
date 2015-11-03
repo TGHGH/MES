@@ -1,0 +1,4 @@
+D:\SoftWare_Genhong.hu\MESMySelf\BasicClassLib\bin\Debug\BasicClassLib.dll
+D:\SoftWare_Genhong.hu\MESMySelf\BasicClassLib\bin\Debug\BasicClassLib.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\BasicClassLib\obj\Debug\BasicClassLib.dll
+D:\SoftWare_Genhong.hu\MESMySelf\BasicClassLib\obj\Debug\BasicClassLib.pdb

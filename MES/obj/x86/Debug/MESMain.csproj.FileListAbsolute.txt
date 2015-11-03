@@ -1,0 +1,16 @@
+D:\SoftWare_Genhong.hu\MESMySelf\MES\bin\Debug\MES.exe.config
+D:\SoftWare_Genhong.hu\MESMySelf\MES\bin\Debug\MES.exe
+D:\SoftWare_Genhong.hu\MESMySelf\MES\bin\Debug\MES.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\MES\bin\Debug\Login.dll
+D:\SoftWare_Genhong.hu\MESMySelf\MES\bin\Debug\WcfRequests.dll
+D:\SoftWare_Genhong.hu\MESMySelf\MES\bin\Debug\Login.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\MES\bin\Debug\WcfRequests.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\MES\obj\x86\Debug\MESMain.csprojResolveAssemblyReference.cache
+D:\SoftWare_Genhong.hu\MESMySelf\MES\obj\x86\Debug\MES.MESShell.resources
+D:\SoftWare_Genhong.hu\MESMySelf\MES\obj\x86\Debug\MES.Properties.Resources.resources
+D:\SoftWare_Genhong.hu\MESMySelf\MES\obj\x86\Debug\MESMain.csproj.GenerateResource.Cache
+D:\SoftWare_Genhong.hu\MESMySelf\MES\obj\x86\Debug\MES.exe
+D:\SoftWare_Genhong.hu\MESMySelf\MES\obj\x86\Debug\MES.pdb
+D:\GithubWarehouse\MES\MES\bin\Debug\MES.exe.config
+D:\GithubWarehouse\MES\MES\obj\x86\Debug\MES.exe
+D:\GithubWarehouse\MES\MES\obj\x86\Debug\MES.pdb

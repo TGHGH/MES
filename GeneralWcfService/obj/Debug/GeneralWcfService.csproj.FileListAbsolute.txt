@@ -1,0 +1,7 @@
+D:\SoftWare_Genhong.hu\MESMySelf\GeneralWcfService\bin\GeneralWcfService.dll
+D:\SoftWare_Genhong.hu\MESMySelf\GeneralWcfService\bin\GeneralWcfService.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\GeneralWcfService\bin\DataContractAssembly.dll
+D:\SoftWare_Genhong.hu\MESMySelf\GeneralWcfService\bin\DataContractAssembly.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\GeneralWcfService\obj\Debug\GeneralWcfService.csprojResolveAssemblyReference.cache
+D:\SoftWare_Genhong.hu\MESMySelf\GeneralWcfService\obj\Debug\GeneralWcfService.dll
+D:\SoftWare_Genhong.hu\MESMySelf\GeneralWcfService\obj\Debug\GeneralWcfService.pdb

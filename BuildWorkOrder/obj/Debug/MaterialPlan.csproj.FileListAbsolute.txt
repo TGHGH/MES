@@ -1,0 +1,9 @@
+D:\SoftWare_Genhong.hu\MESMySelf\MES\bin\Debug\MaterialPlan.dll
+D:\SoftWare_Genhong.hu\MESMySelf\MES\bin\Debug\MaterialPlan.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\BuildWorkOrder\obj\Debug\MaterialPlan.BuildWO.resources
+D:\SoftWare_Genhong.hu\MESMySelf\BuildWorkOrder\obj\Debug\MaterialPlan.CellReturn.resources
+D:\SoftWare_Genhong.hu\MESMySelf\BuildWorkOrder\obj\Debug\MaterialPlan.CreateLabel.resources
+D:\SoftWare_Genhong.hu\MESMySelf\BuildWorkOrder\obj\Debug\MaterialPlan.csproj.GenerateResource.Cache
+D:\SoftWare_Genhong.hu\MESMySelf\BuildWorkOrder\obj\Debug\MaterialPlan.dll
+D:\SoftWare_Genhong.hu\MESMySelf\BuildWorkOrder\obj\Debug\MaterialPlan.pdb
+D:\SoftWare_Genhong.hu\MESMySelf\BuildWorkOrder\obj\Debug\MaterialPlan.csprojResolveAssemblyReference.cache
